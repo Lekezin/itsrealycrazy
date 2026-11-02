@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bts",
+    "page": "https://en.wikipedia.org/wiki/BTS",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/BTS_during_a_White_House_press_conference_May_31%2C_2022_%28cropped%29.jpg/1280px-BTS_during_a_White_House_press_conference_May_31%2C_2022_%28cropped%29.jpg",
+    "file": "/images/bts.jpg",
+    "attribution": "https://commons.wikimedia.org/wiki/File:BTS_during_a_White_House_press_conference_May_31%2C_2022_(cropped).jpg",
+    "author": "The White House",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  {
+    "id": "blackpink",
+    "page": "https://en.wikipedia.org/wiki/Blackpink",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/20240809_Blackpink_Pink_Carpet_09.png/1280px-20240809_Blackpink_Pink_Carpet_09.png",
+    "file": "/images/blackpink.png",
+    "attribution": "https://commons.wikimedia.org/wiki/File:20240809_Blackpink_Pink_Carpet_09.png",
+    "author": "K-POPIT 케이팝잇",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  {
+    "id": "twice",
+    "page": "https://en.wikipedia.org/wiki/Twice",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Twice_260618.jpg/1280px-Twice_260618.jpg",
+    "file": "/images/twice.jpg",
+    "attribution": "https://commons.wikimedia.org/wiki/File:Twice_260618.jpg",
+    "author": "K-POPIT 케이팝잇",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "id": "red-velvet",
+    "page": "https://en.wikipedia.org/wiki/Red_Velvet_(group)",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/%EB%A0%88%EB%93%9C%EB%B2%A8%EB%B2%B3%28Red_Velvet%29_%EC%BC%80%EC%9D%B4%EC%BD%98_%EC%9E%AC%ED%8C%AC_2024_%EB%A0%88%EB%93%9C%EC%B9%B4%ED%8E%AB_KCON_JAPAN_2024_%281%29.jpg/1280px-%EB%A0%88%EB%93%9C%EB%B2%A8%EB%B2%B3%28Red_Velvet%29_%EC%BC%80%EC%9D%B4%EC%BD%98_%EC%9E%AC%ED%8C%AC_2024_%EB%A0%88%EB%93%9C%EC%B9%B4%ED%8E%AB_KCON_JAPAN_2024_%281%29.jpg",
+    "file": "/images/red-velvet.jpg",
+    "attribution": "https://commons.wikimedia.org/wiki/File:%EB%A0%88%EB%93%9C%EB%B2%A8%EB%B2%B3(Red_Velvet)_%EC%BC%80%EC%9D%B4%EC%BD%98_%EC%9E%AC%ED%8C%AC_2024_%EB%A0%88%EB%93%9C%EC%B9%B4%ED%8E%AB_KCON_JAPAN_2024_(1).jpg",
+    "author": "TV10",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  {
+    "id": "mamamoo",
+    "page": "https://en.wikipedia.org/wiki/Mamamoo",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Mamamoo_in_September_2022.png/1280px-Mamamoo_in_September_2022.png",
+    "file": "/images/mamamoo.png",
+    "attribution": "https://commons.wikimedia.org/wiki/File:Mamamoo_in_September_2022.png",
+    "author": "무릎팍타짱",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "id": "gidle",
+    "page": "https://en.wikipedia.org/wiki/I-dle",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/I-dle_at_Love_Your_W_on_October_15%2C_2025.png/1280px-I-dle_at_Love_Your_W_on_October_15%2C_2025.png",
+    "file": "/images/gidle.png",
+    "attribution": "https://commons.wikimedia.org/wiki/File:I-dle_at_Love_Your_W_on_October_15%2C_2025.png",
+    "author": "티비텐 TV10",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  }
+]

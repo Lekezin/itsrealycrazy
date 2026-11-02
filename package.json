@@ -1,0 +1,35 @@
+{
+  "name": "kpop-journey",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "media:prepare": "node scripts/prepare-media.mjs",
+    "format": "prettier --write src scripts tests index.html vite.config.ts playwright.config.ts tsconfig.json package.json README.md CREDITS.md",
+    "format:check": "prettier --check src scripts tests index.html vite.config.ts playwright.config.ts tsconfig.json package.json README.md CREDITS.md"
+  },
+  "dependencies": {
+    "@phosphor-icons/react": "^2.1.10",
+    "howler": "^2.2.4",
+    "motion": "^14.9.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
+    "@playwright/test": "^1.64.1",
+    "@types/howler": "^2.2.13",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "prettier": "^3.9.10",
+    "sharp": "^0.35.5",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5"
+  }
+}
